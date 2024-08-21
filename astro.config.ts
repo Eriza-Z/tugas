@@ -11,7 +11,7 @@ export default defineConfig({
   site: SITE.website,
   base: 'Tugas',
   integrations: [tailwind({
-    applyBaseStyles: false
+    applyBaseStyles: true
   }), react(), sitemap()],
   markdown: {
     remarkPlugins: [remarkToc, [remarkCollapse, {

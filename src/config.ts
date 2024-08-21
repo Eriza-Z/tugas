@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Eriza Zehezkiel Gracia",
   desc: "Web berisi tugas yang sudah diarsipkan dan diunggah ke web.",
   title: "Tugas",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
