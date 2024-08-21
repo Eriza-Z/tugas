@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Eriza Zehezkiel Gracia",
   desc: "Web berisi tugas yang sudah diarsipkan dan diunggah ke web.",
   title: "Tugas",
-  lightAndDarkMode: true,
+  lightAndDarkMode: false,
   postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
@@ -33,6 +33,6 @@ export const SOCIALS: SocialObjects = [
     name: "Instagram",
     href: "https://instagram.com/ezgrxs",
     linkTitle: `${SITE.title} on Instagram`,
-    active: false,
+    active: true,
   }
 ];
