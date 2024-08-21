@@ -1,0 +1,201 @@
+{
+  "nodes": [
+    {
+      "id": "bb2db13ef0396f81",
+      "type": "text",
+      "text": "**Tugas:\n\t1. Buat naskah/alur\n\t2. Buat presentasi\n\t3. Buat video** ",
+      "styleAttributes": {},
+      "x": 370,
+      "y": -720,
+      "width": 320,
+      "height": 140
+    },
+    {
+      "id": "db3fc5d27e449817",
+      "type": "file",
+      "file": "Semester 1/Mapel/Biologi/Tema/Metabolisme/Metabolisme pengertian dan klasifikasi.md",
+      "styleAttributes": {},
+      "x": -1090,
+      "y": -220,
+      "width": 580,
+      "height": 540
+    },
+    {
+      "id": "f212fe4a06bb1cb6",
+      "type": "file",
+      "file": "Semester 1/Mapel/Biologi/Tema/Metabolisme/Enzim.md",
+      "styleAttributes": {},
+      "x": -410,
+      "y": -220,
+      "width": 580,
+      "height": 540
+    },
+    {
+      "id": "c56485b7452bec64",
+      "type": "file",
+      "file": "Semester 1/Mapel/Biologi/Tema/Metabolisme/Kerangka Kerja atau Kerangka Berpikir.md",
+      "styleAttributes": {},
+      "x": -1770,
+      "y": -220,
+      "width": 574,
+      "height": 540
+    },
+    {
+      "id": "c33da119ba9f9d5f",
+      "type": "text",
+      "text": "**Naskah/alur**",
+      "styleAttributes": {},
+      "x": -930,
+      "y": -400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "481af17ed067bd08",
+      "type": "file",
+      "file": "Semester 1/Mapel/Biologi/Tema/Metabolisme/Katabolisme Karbohidrat.md",
+      "styleAttributes": {},
+      "x": -1770,
+      "y": 440,
+      "width": 574,
+      "height": 540
+    },
+    {
+      "id": "2721369cbbe67133",
+      "type": "file",
+      "file": "Semester 1/Mapel/Biologi/Tema/Metabolisme/Anabolisme Karbohidrat.md",
+      "styleAttributes": {},
+      "x": -1090,
+      "y": 440,
+      "width": 580,
+      "height": 540
+    },
+    {
+      "id": "a2d27263975bee50",
+      "type": "text",
+      "text": "\"D:\\Obsidian\\Vault\\Eriza Zehezkiel Gracia\\Semester 1\\\nMapel\\Biologi\\Presentasi\\Biologi Metabolisme.pptx\"",
+      "styleAttributes": {},
+      "x": 310,
+      "y": -220,
+      "width": 440,
+      "height": 120
+    },
+    {
+      "id": "f2bc29ca89f8fe4d",
+      "type": "file",
+      "file": "Semester 1/Mapel/Biologi/Tema/Metabolisme/Keterkaikan Proses Katabolisme dan Anabolisme.md",
+      "styleAttributes": {},
+      "x": -410,
+      "y": 440,
+      "width": 580,
+      "height": 540
+    }
+  ],
+  "edges": [
+    {
+      "id": "34203f3c13bf0144",
+      "styleAttributes": {},
+      "fromNode": "c56485b7452bec64",
+      "fromSide": "right",
+      "toNode": "db3fc5d27e449817",
+      "toSide": "left"
+    },
+    {
+      "id": "122dedd3fa1c9629",
+      "styleAttributes": {},
+      "fromNode": "c56485b7452bec64",
+      "fromSide": "top",
+      "toNode": "c33da119ba9f9d5f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f02054f6638c1581",
+      "styleAttributes": {},
+      "fromNode": "db3fc5d27e449817",
+      "fromSide": "top",
+      "toNode": "c33da119ba9f9d5f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "63e904b9980ab83f",
+      "styleAttributes": {},
+      "fromNode": "f212fe4a06bb1cb6",
+      "fromSide": "top",
+      "toNode": "c33da119ba9f9d5f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ad7cbdf1ad80c6da",
+      "styleAttributes": {},
+      "fromNode": "c33da119ba9f9d5f",
+      "fromSide": "top",
+      "toNode": "bb2db13ef0396f81",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b689a78e601c755a",
+      "styleAttributes": {},
+      "fromNode": "c56485b7452bec64",
+      "fromSide": "top",
+      "toNode": "f212fe4a06bb1cb6",
+      "toSide": "top"
+    },
+    {
+      "id": "a72d2f933f3275ba",
+      "styleAttributes": {},
+      "fromNode": "c56485b7452bec64",
+      "fromSide": "bottom",
+      "toNode": "481af17ed067bd08",
+      "toSide": "top"
+    },
+    {
+      "id": "d588b00f6a4d11b9",
+      "styleAttributes": {},
+      "fromNode": "481af17ed067bd08",
+      "fromSide": "top",
+      "toNode": "c33da119ba9f9d5f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a8f3657fa4db1ff4",
+      "styleAttributes": {},
+      "fromNode": "2721369cbbe67133",
+      "fromSide": "top",
+      "toNode": "c33da119ba9f9d5f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "4c37ac394f2dc3f8",
+      "styleAttributes": {},
+      "fromNode": "c56485b7452bec64",
+      "fromSide": "bottom",
+      "toNode": "f2bc29ca89f8fe4d",
+      "toSide": "top"
+    },
+    {
+      "id": "48dcde3569844daf",
+      "styleAttributes": {},
+      "fromNode": "c56485b7452bec64",
+      "fromSide": "bottom",
+      "toNode": "2721369cbbe67133",
+      "toSide": "top"
+    },
+    {
+      "id": "cbf47a22079a5ff4",
+      "styleAttributes": {},
+      "fromNode": "f2bc29ca89f8fe4d",
+      "fromSide": "top",
+      "toNode": "c33da119ba9f9d5f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b8035fde0869c424",
+      "styleAttributes": {},
+      "fromNode": "a2d27263975bee50",
+      "fromSide": "top",
+      "toNode": "bb2db13ef0396f81",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}
