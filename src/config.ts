@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Eriza Zehezkiel Gracia",
   desc: "Web berisi tugas yang sudah diarsipkan dan diunggah ke web.",
   title: "Tugas",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
@@ -16,8 +16,8 @@ export const LOCALE = {
 } as const;
 
 export const LOGO_IMAGE = {
-  enable: false,
-  svg: false,
+  enable: true,
+  svg: true,
   width: 216,
   height: 46,
 };
