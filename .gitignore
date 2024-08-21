@@ -35,9 +35,7 @@ pnpm-debug.log*
 .pnp.*
 
 # Unnecessary
-Tags
 Semester 1
-Blog
 .obsidian
 .space
 .trash
